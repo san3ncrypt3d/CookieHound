@@ -1,0 +1,16 @@
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\CookieHound.exe.config
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\CookieHound.exe
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\CookieHound.pdb
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\EntityFramework.dll
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\EntityFramework.SqlServer.dll
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\System.Data.SQLite.dll
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\System.Data.SQLite.EF6.dll
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\System.Data.SQLite.Linq.dll
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\EntityFramework.xml
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\EntityFramework.SqlServer.xml
+C:\Users\san3n\source\repos\CookieHound\CookieHound\bin\x64\Release\System.Data.SQLite.xml
+C:\Users\san3n\source\repos\CookieHound\CookieHound\obj\x64\Release\CookieHound.csproj.AssemblyReference.cache
+C:\Users\san3n\source\repos\CookieHound\CookieHound\obj\x64\Release\CookieHound.csproj.CoreCompileInputs.cache
+C:\Users\san3n\source\repos\CookieHound\CookieHound\obj\x64\Release\CookieHound.csproj.CopyComplete
+C:\Users\san3n\source\repos\CookieHound\CookieHound\obj\x64\Release\CookieHound.exe
+C:\Users\san3n\source\repos\CookieHound\CookieHound\obj\x64\Release\CookieHound.pdb
